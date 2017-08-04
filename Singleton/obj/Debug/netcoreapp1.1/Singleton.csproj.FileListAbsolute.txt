@@ -1,0 +1,10 @@
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\capitals.txt
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.deps.json
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.runtimeconfig.json
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.dll
+D:\demos\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.pdb
+D:\demos\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.AssemblyInfo.cs
+D:\demos\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.dll
+D:\demos\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.pdb

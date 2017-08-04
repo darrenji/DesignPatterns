@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "94296772b709397dc4cfdd9600616586e44fb21a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "singleton/1.0.0": {
+        "dependencies": {
+          "morelinq": "2.6.0"
+        },
+        "runtime": {
+          "Singleton.dll": {}
+        }
+      },
+      "morelinq/2.6.0": {
+        "dependencies": {
+          "System.ValueTuple": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/MoreLinq.dll": {}
+        }
+      },
+      "system.valuetuple/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "morelinq/2.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tlKZWsl+djJRWk5O+16BErpnoJshs1iX9FCxn4LLxWalXJeqY6S2jtI5H2/NdR8qDZ58MyxBRYYBsWY0B4WFfA==",
+      "path": "morelinq/2.6.0",
+      "hashPath": "morelinq.2.6.0.nupkg.sha512"
+    },
+    "system.valuetuple/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cNLEvBX3d6MMQRZe3SMFNukVbitDAEpVZO17qa0/2FHxZ7Y7PpFRpr6m2615XYM/tYYYf0B+WyHNujqIw8Luwg==",
+      "path": "system.valuetuple/4.3.0",
+      "hashPath": "system.valuetuple.4.3.0.nupkg.sha512"
+    }
+  }
+}
