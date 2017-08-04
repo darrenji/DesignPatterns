@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Bridge\bin\Debug\netcoreapp1.1\Bridge.deps.json
+D:\demos\DesignPatterns\Bridge\bin\Debug\netcoreapp1.1\Bridge.runtimeconfig.json
+D:\demos\DesignPatterns\Bridge\bin\Debug\netcoreapp1.1\Bridge.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Bridge\bin\Debug\netcoreapp1.1\Bridge.dll
+D:\demos\DesignPatterns\Bridge\bin\Debug\netcoreapp1.1\Bridge.pdb
+D:\demos\DesignPatterns\Bridge\obj\Debug\netcoreapp1.1\Bridge.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Bridge\obj\Debug\netcoreapp1.1\Bridge.AssemblyInfo.cs
+D:\demos\DesignPatterns\Bridge\obj\Debug\netcoreapp1.1\Bridge.dll
+D:\demos\DesignPatterns\Bridge\obj\Debug\netcoreapp1.1\Bridge.pdb
