@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Command\bin\Debug\netcoreapp1.1\Command.deps.json
+D:\demos\DesignPatterns\Command\bin\Debug\netcoreapp1.1\Command.runtimeconfig.json
+D:\demos\DesignPatterns\Command\bin\Debug\netcoreapp1.1\Command.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Command\bin\Debug\netcoreapp1.1\Command.dll
+D:\demos\DesignPatterns\Command\bin\Debug\netcoreapp1.1\Command.pdb
+D:\demos\DesignPatterns\Command\obj\Debug\netcoreapp1.1\Command.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Command\obj\Debug\netcoreapp1.1\Command.AssemblyInfo.cs
+D:\demos\DesignPatterns\Command\obj\Debug\netcoreapp1.1\Command.dll
+D:\demos\DesignPatterns\Command\obj\Debug\netcoreapp1.1\Command.pdb
