@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Proxy\bin\Debug\netcoreapp1.1\Proxy.deps.json
+D:\demos\DesignPatterns\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.json
+D:\demos\DesignPatterns\Proxy\bin\Debug\netcoreapp1.1\Proxy.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Proxy\bin\Debug\netcoreapp1.1\Proxy.dll
+D:\demos\DesignPatterns\Proxy\bin\Debug\netcoreapp1.1\Proxy.pdb
+D:\demos\DesignPatterns\Proxy\obj\Debug\netcoreapp1.1\Proxy.AssemblyInfo.cs
+D:\demos\DesignPatterns\Proxy\obj\Debug\netcoreapp1.1\Proxy.dll
+D:\demos\DesignPatterns\Proxy\obj\Debug\netcoreapp1.1\Proxy.pdb
+D:\demos\DesignPatterns\Proxy\obj\Debug\netcoreapp1.1\Proxy.csprojResolveAssemblyReference.cache
