@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Iterator\bin\Debug\netcoreapp1.1\Iterator.deps.json
+D:\demos\DesignPatterns\Iterator\bin\Debug\netcoreapp1.1\Iterator.runtimeconfig.json
+D:\demos\DesignPatterns\Iterator\bin\Debug\netcoreapp1.1\Iterator.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Iterator\bin\Debug\netcoreapp1.1\Iterator.dll
+D:\demos\DesignPatterns\Iterator\bin\Debug\netcoreapp1.1\Iterator.pdb
+D:\demos\DesignPatterns\Iterator\obj\Debug\netcoreapp1.1\Iterator.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Iterator\obj\Debug\netcoreapp1.1\Iterator.AssemblyInfo.cs
+D:\demos\DesignPatterns\Iterator\obj\Debug\netcoreapp1.1\Iterator.dll
+D:\demos\DesignPatterns\Iterator\obj\Debug\netcoreapp1.1\Iterator.pdb
