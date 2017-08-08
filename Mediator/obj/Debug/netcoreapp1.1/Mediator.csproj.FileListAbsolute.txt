@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Mediator\bin\Debug\netcoreapp1.1\Mediator.deps.json
+D:\demos\DesignPatterns\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.json
+D:\demos\DesignPatterns\Mediator\bin\Debug\netcoreapp1.1\Mediator.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Mediator\bin\Debug\netcoreapp1.1\Mediator.dll
+D:\demos\DesignPatterns\Mediator\bin\Debug\netcoreapp1.1\Mediator.pdb
+D:\demos\DesignPatterns\Mediator\obj\Debug\netcoreapp1.1\Mediator.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Mediator\obj\Debug\netcoreapp1.1\Mediator.AssemblyInfo.cs
+D:\demos\DesignPatterns\Mediator\obj\Debug\netcoreapp1.1\Mediator.dll
+D:\demos\DesignPatterns\Mediator\obj\Debug\netcoreapp1.1\Mediator.pdb
