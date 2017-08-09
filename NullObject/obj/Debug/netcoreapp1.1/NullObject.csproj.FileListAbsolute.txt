@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\NullObject\bin\Debug\netcoreapp1.1\NullObject.deps.json
+D:\demos\DesignPatterns\NullObject\bin\Debug\netcoreapp1.1\NullObject.runtimeconfig.json
+D:\demos\DesignPatterns\NullObject\bin\Debug\netcoreapp1.1\NullObject.runtimeconfig.dev.json
+D:\demos\DesignPatterns\NullObject\bin\Debug\netcoreapp1.1\NullObject.dll
+D:\demos\DesignPatterns\NullObject\bin\Debug\netcoreapp1.1\NullObject.pdb
+D:\demos\DesignPatterns\NullObject\obj\Debug\netcoreapp1.1\NullObject.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\NullObject\obj\Debug\netcoreapp1.1\NullObject.AssemblyInfo.cs
+D:\demos\DesignPatterns\NullObject\obj\Debug\netcoreapp1.1\NullObject.dll
+D:\demos\DesignPatterns\NullObject\obj\Debug\netcoreapp1.1\NullObject.pdb
