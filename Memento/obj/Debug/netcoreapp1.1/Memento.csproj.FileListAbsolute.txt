@@ -1,0 +1,9 @@
+D:\demos\DesignPatterns\Memento\bin\Debug\netcoreapp1.1\Memento.deps.json
+D:\demos\DesignPatterns\Memento\bin\Debug\netcoreapp1.1\Memento.runtimeconfig.json
+D:\demos\DesignPatterns\Memento\bin\Debug\netcoreapp1.1\Memento.runtimeconfig.dev.json
+D:\demos\DesignPatterns\Memento\bin\Debug\netcoreapp1.1\Memento.dll
+D:\demos\DesignPatterns\Memento\bin\Debug\netcoreapp1.1\Memento.pdb
+D:\demos\DesignPatterns\Memento\obj\Debug\netcoreapp1.1\Memento.csprojResolveAssemblyReference.cache
+D:\demos\DesignPatterns\Memento\obj\Debug\netcoreapp1.1\Memento.AssemblyInfo.cs
+D:\demos\DesignPatterns\Memento\obj\Debug\netcoreapp1.1\Memento.dll
+D:\demos\DesignPatterns\Memento\obj\Debug\netcoreapp1.1\Memento.pdb
