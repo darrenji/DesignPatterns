@@ -1,0 +1,8 @@
+D:\demos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp1.1\TemplateMethod.deps.json
+D:\demos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp1.1\TemplateMethod.runtimeconfig.json
+D:\demos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp1.1\TemplateMethod.runtimeconfig.dev.json
+D:\demos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp1.1\TemplateMethod.dll
+D:\demos\DesignPatterns\TemplateMethod\bin\Debug\netcoreapp1.1\TemplateMethod.pdb
+D:\demos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp1.1\TemplateMethod.AssemblyInfo.cs
+D:\demos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp1.1\TemplateMethod.dll
+D:\demos\DesignPatterns\TemplateMethod\obj\Debug\netcoreapp1.1\TemplateMethod.pdb
